@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE miniflow SYSTEM "miniflow.dtd">
+
+<miniflow>
+    <inicio>INICIO</inicio>
+    <instrucciones>
+        <mostrar>Hola</mostrar>
+    </instrucciones>
+    <fin>FIN</fin>
+</miniflow>

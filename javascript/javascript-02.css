@@ -13,7 +13,7 @@ button[id="b0"] {
     color: red;
 }
 
-div{
+div {
     width: 100px;
     display: flex;
     flex-wrap: wrap;
